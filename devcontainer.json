@@ -35,7 +35,8 @@
 		"geddski.macros",
 		"ms-azuretools.vscode-docker",
 		"streetsidesoftware.code-spell-checker",
-		"janisdd.vscode-edit-csv"
+		"janisdd.vscode-edit-csv",
+		"evgeniypeshkov.syntax-highlighter"
 	],
 
 	// Use 'forwardPorts' to make a list of ports inside the container available locally.
